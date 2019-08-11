@@ -3,9 +3,9 @@
 # Docker container: CentOS 7 + Java 8 + Tomcat 8.5
 # Build the image
  ----------------
-   "git clone 
-   cd Dockerfile_tomcat_8.5
-   docker build -t centos_tomcat ."
+   # git clone 
+   # cd Dockerfile_tomcat_8.5
+   # docker build -t centos_tomcat ."
 
   How to use
   ----------
